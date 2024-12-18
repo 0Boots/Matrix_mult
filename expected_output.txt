@@ -1,0 +1,17 @@
+Resultant Matrix:
+19 22
+43 50
+
+Resultant Matrix:
+27 30 33
+61 68 75
+95 106 117
+
+Resultant Matrix:
+5 5 8 9
+4 1 -2 12
+
+Resultant Matrix:
+2 4 6
+1 3 5
+7 8 9
